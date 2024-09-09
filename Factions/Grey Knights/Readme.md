@@ -1,4 +1,4 @@
-# `Grey Knights` v1.0
+# `Grey Knights` v1.1
 ## General Information
 * This Index contains all units from the current `Index: Grey Knights` and the `Imperial Armour: Grey Knights`.
   

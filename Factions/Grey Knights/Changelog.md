@@ -1,6 +1,22 @@
 # Grey Knights
 
-## Update v1.0
+## Update v1.1
+###### 09/09/2024
+### General
+
+* Added maximum sized units
+
+### New Unit Profiles
+  * Brotherhood Terminator Squad x10
+  * Interceptor Squad x10
+  * Paladin Squad x10
+  * Purgation Squad x10
+  * Purifier Squad x10
+  * Strike Squad x10
+
+<details>
+<summary><h2>Update v1.0</h2></summary>
+
 ###### 06/09/2024
 ### General
 
@@ -57,3 +73,5 @@
 * **Purgation Squad**
 * **Purifier Squad**
 * **Servitors**
+
+</details>
